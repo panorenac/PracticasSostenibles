@@ -1,3 +1,3 @@
 # PracticasSostenibles
-Esta información pertenece al artículo "Caracterización de prácticas sostenibles en el desarrollo de software y la sostenibilidad humana"
-Todos los derechos reservados 2024
+Esta información pertenece a artículos de los autores
+Todos los derechos reservados
